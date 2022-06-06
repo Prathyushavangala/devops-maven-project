@@ -5,6 +5,7 @@
 <body style="text-align: center">
 <h1>Sysnexuss Congratulations!</h1>
 <img src="boxfuse.png">
+    
 
 <h2>Sysnexuss Apllication</h2>
 
