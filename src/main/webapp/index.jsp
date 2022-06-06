@@ -7,6 +7,7 @@
 <img src="boxfuse.png">
     
 
+    
 <h2>Sysnexuss Apllication</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
